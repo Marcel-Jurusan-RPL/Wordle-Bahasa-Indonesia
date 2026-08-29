@@ -57,3 +57,4 @@ Game ini dikembangkan dengan bantuan AI (AI-assisted development), sehingga seba
    **Solusi:** Kata jawaban dan validasi tebakan tetap memakai daftar KBBI resmi (agar konsisten dengan kamus), namun daftar ini dapat dipersempit ke depannya menjadi kata-kata yang lebih umum jika diperlukan.
 
 ## Video Gameplay
+https://drive.google.com/file/d/1lPV4rAZuJrDQ8YR4l0nAnWXoZrFlk9Nd/view?usp=sharing
